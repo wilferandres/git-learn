@@ -1,3 +1,3 @@
 # Motivo
 
-Este repositorio sirve para probar cosas
+Este repositorio de la vida y de lo demás
